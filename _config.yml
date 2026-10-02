@@ -1,0 +1,23 @@
+# Site settings — edit freely
+title: Andrea Bonicelli
+description: Postdoctoral Researcher in Bioinformatics at TIGEM. Forensic multi-omics — proteomics, metabolomics, microbiome.
+url: https://abonicell.github.io
+
+# Top menu: order and labels. Add or remove pages here.
+nav:
+  - title: Home
+    url: /
+  - title: Experience
+    url: /experience/
+  - title: Publications
+    url: /publications/
+  - title: Teaching
+    url: /teaching/
+  - title: Grants
+    url: /grants/
+  - title: Service & Outreach
+    url: /service/
+
+markdown: kramdown
+exclude:
+  - README.md
