@@ -18,7 +18,7 @@ permalink: /teaching/
 ### School of History, Classics and Archaeology, University of Edinburgh
 
 - *2016/17 – 2018/19*
-  Human Musculo-Skeletal Anatomy (PGHC11367); Analytical Methods in Human Osteology (PGHC11230); Skeletal Pathology (PGHC11231); Practical Osteology (PGHC11232) — contributor
+  Human Musculo-Skeletal Anatomy (PGHC11367); Analytical Methods in Human Osteology (PGHC11230); Skeletal Pathology (PGHC11231); Practical Osteology (PGHC11232) - contributor
 
 ## Mentoring and Supervision
 
