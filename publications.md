@@ -16,6 +16,7 @@ every line can start with "1." and the list numbers itself automatically.
 
 ## Peer-Reviewed Articles and Book Chapters
 
+1. **Microbiome modelling for post-mortem interval estimation across species and climates: swine analogues in a British summer and external validation in human donors from the USA.** **Andrea Bonicelli**, Peter A. Cross, Lavinia Iancu, M. Eric Benbow, Noemi Procopio (2026). *Scientific Reports* 16: 24916. [doi:10.1038/s41598-026-65366-y](https://doi.org/10.1038/s41598-026-65366-y)
 1. **Genetic discrimination in workplace, insurance industry and legal system: A review.** Simone Grassi, Andrea Costantino, **Andrea Bonicelli**, Francesca Iasi, Emma Beatrice Croce, Giorgia Leone, Pietro Carotenuto, Noemi Procopio, Stefano Ferracuti, Antonio Oliva (2026). *Legal Medicine*: 1–7. [doi:10.1016/j.legmed.2026.102901](https://doi.org/10.1016/j.legmed.2026.102901)
 1. **Impact of flunitrazepam on Calliphora vicina (Diptera: Calliphoridae) microbiome dynamics.** Lavinia Iancu, Ranjana Mosby, **Andrea Bonicelli**, Noemi Procopio (2025). *Journal of Forensic Sciences*. [doi:10.1111/1556-4029.70208](https://doi.org/10.1111/1556-4029.70208)
 1. **Forensic Metabolomics: Enhancing PMI Estimation through Porcine Bone Tissue Profiling.** Maria Elena Chiappetta, Elisa Roggia, Eugenio Alladio, **Andrea Bonicelli**, Noemi Procopio (2025). *Journal of Proteome Research* 24(11): 5498–5510. [doi:10.1021/acs.jproteome.5c00250](https://doi.org/10.1021/acs.jproteome.5c00250)
