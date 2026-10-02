@@ -19,30 +19,30 @@ permalink: /service/
 
 ## Memberships
 
-- Associate Fellow, American Academy of Forensic Sciences (AAFS) — Pathology/Biology section
+- Associate Fellow, American Academy of Forensic Sciences (AAFS) - Pathology/Biology section
 - Member, International Society for Biomolecular Archaeology (ISBA)
 - Secondary Proposer, COST Action Proposal OC-2023-1-26588 “Deamidation as a molecular clock for bridging ancient and modern proteins”
 
 ## Press
 
 - *29 April 2022*
-  Scripps National Media (US) video story on the ForensOMICS project, syndicated to 50+ US TV stations including Newsy — [The Denver Channel (ABC)](https://www.thedenverchannel.com/news/national/new-research-could-help-determine-more-accurate-time-of-death-for-unidentified-remains)
+  Scripps National Media (US) video story on the ForensOMICS project, syndicated to 50+ US TV stations including Newsy - [The Denver Channel (ABC)](https://www.thedenverchannel.com/news/national/new-research-could-help-determine-more-accurate-time-of-death-for-unidentified-remains)
 - *24 March 2022*
-  *Chemical & Engineering News* coverage of “Insights on the Differential Preservation of Bone Proteomes in Inhumated and Entombed Cadavers from Italian Forensic Caseworks” — [C&EN](https://cen.acs.org/analytical-chemistry/forensic-science/Bone-proteins-carry-clues-body/100/web/2022/03)
+  *Chemical & Engineering News* coverage of “Insights on the Differential Preservation of Bone Proteomes in Inhumated and Entombed Cadavers from Italian Forensic Caseworks” - [C&EN](https://cen.acs.org/analytical-chemistry/forensic-science/Bone-proteins-carry-clues-body/100/web/2022/03)
 
 ## Public Engagement
 
 - *05/2024*
-  **University of Lancashire Research Forum**
+  **University of Lancashire Research Forum** - University of Lancashire
 - *05/2023*
-  **Lancashire Science Festival**
+  **Lancashire Science Festival** - University of Lancashire
 - *07/2022*
-  **Soapbox Science** — Newcastle upon Tyne
+  **Soapbox Science** - Newcastle upon Tyne
 - *06/2022*
-  **The Great Exhibition Road Festival** — Imperial College London
+  **The Great Exhibition Road Festival** - Imperial College London
 - *05/2018*
-  **Polyphonic Murders – A Holographic Biography of Trauma** — University of Edinburgh
+  **Polyphonic Murders – A Holographic Biography of Trauma** - University of Edinburgh
 - *03/2018*
-  **Young Science Advisory Group** — Leith Lab, University of Edinburgh
+  **Young Science Advisory Group** - Leith Lab, University of Edinburgh
 - *04/2017*
-  **Explorathon** — University of Edinburgh
+  **Explorathon** - University of Edinburgh
