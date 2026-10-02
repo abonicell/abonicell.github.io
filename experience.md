@@ -54,9 +54,3 @@ permalink: /experience/
   **[Hands-on Data Analysis for Metabolic Profiling](https://www.imperial.ac.uk/imperial-international-phenome-training-centre/courses/hands-on-data-analysis-for-metabolic-profiling/)** — National Phenome Centre, Imperial College London
 - *05/2021*
   **[Computation and statistics for mass spectrometry and proteomics](https://computationalproteomics.khoury.northeastern.edu)** — May Institute for Proteomics
-- *03/2021*
-  **Media Training** — Continuing Professional Development, Northumbria University
-- *02/2021*
-  **[Action for Impact](https://northernaccelerator.org/general-news/make-your-impact-develop-the-impact-of-your-research/)** — Northern Accelerator, Newcastle University
-- *03/2015*
-  **Cross-sectional and surface histology workshop** — University of Edinburgh
