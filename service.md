@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Service & Outreach
+title: Service
 permalink: /service/
 ---
 
