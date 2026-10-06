@@ -15,7 +15,7 @@ nav:
     url: /teaching/
   - title: Grants & Funding
     url: /grants/
-  - title: Service & Outreach
+  - title: Service
     url: /service/
 
 markdown: kramdown
