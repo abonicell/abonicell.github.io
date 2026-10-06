@@ -4,7 +4,7 @@ title: Service & Outreach
 permalink: /service/
 ---
 
-# Service
+# Academic Service
 
 ## Peer Review and Editorial
 
