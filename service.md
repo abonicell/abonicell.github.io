@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Service
+title: Service & Outreach
 permalink: /service/
 ---
 
-# Service & Outreach
+# Service
 
 ## Peer Review and Editorial
 
