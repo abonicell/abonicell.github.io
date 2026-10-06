@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Service
+title: Academic Service
 permalink: /service/
 ---
 
