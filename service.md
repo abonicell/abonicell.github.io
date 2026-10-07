@@ -11,11 +11,11 @@ permalink: /service/
 **Reviewer for:** iScience, Chemical Papers, Molecular Omics, American Journal of Physical Anthropology, Science & Justice, Scientific Reports, Biology, Analytical Chemistry (ACS), Forensic Science International, Nature Communications.
 
 - *2025*
-  Topic Editor, *Frontiers in Microbiology*
+  **Topic Editor:** *Frontiers in Microbiology*
 - *2025*
-  Abstract reviewer, American Academy of Forensic Sciences
+  **Abstract reviewer:** American Academy of Forensic Sciences
 - *2022*
-  Guest Editor, *Biology*
+  **Guest Editor:** Biology, Frontiers in Microbiology
 
 ## Memberships
 
