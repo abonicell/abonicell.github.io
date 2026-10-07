@@ -12,7 +12,7 @@ permalink: /service/
 
 - *2025*
   **Topic Editor:** *Frontiers in Microbiology*
-- *2025*
+- *2025/2026*
   **Abstract reviewer:** American Academy of Forensic Sciences
 - *2022*
   **Guest Editor:** Biology
