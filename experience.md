@@ -44,7 +44,7 @@ permalink: /experience/
 
 ### Selected Training
 
-- *06/2024*
+- *06/2025*
   **Spatial Transcriptomics Analysis** - Dept. of Electrical Engineering and IT, University of Naples “Federico II”
 - *06/2024*
   **Artificial Intelligence in Research - high-throughput computing for data analysis** - BEST Health Research Institute, University of Lancashire
