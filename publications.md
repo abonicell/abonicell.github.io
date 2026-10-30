@@ -14,6 +14,11 @@ To add a new item, copy a line in the right section and change it. Keep the "1. 
 every line can start with "1." and the list numbers itself automatically.
 -->
 
+## Submitted Articles 
+1. **Integrated transcriptomic and tissue profiling reveals imprinted-gene dysregulation and PEG10 upregulation in liposarcoma.** Roberta Turiello, Giosuè Scognamiglio, **Andrea Bonicelli**, Giorgia Gitano, Emanuele Manco, Sara Olivieri, Anna Barbato, Carmine Fruggiero, Massimiliano Salati, Antonella Iuliano, Margherita Cerrone, Alessandro Arcucci, Anna Martorana, Giovanna De Pietro, Emili Santella, Fernanda Picozzi, Monica Cantile, Salvatore Tafuto, Alfredo Budillon, Brunella Franco, Pietro Carotenuto (2026). Submitted to Scientific Report.
+1. **IDH mutations rewire NAD metabolism and sensitize cholangiocarcinoma to combined NAMPT and RAD51 inhibition.** Kishor Pant, Daniel J. Zabransky, Nawras Zaki, Sara E. Young, Branko Dubravcic, Naheed Arfin Borah, Estanislao Peixoto, Pietro Carotenuto, **Andrea Bonicelli**, Brunella Franco, Sergio A. Gradilone (2026). Submitted to Cancer & Metabolism.
+
+   
 ## Peer-Reviewed Articles and Book Chapters
 
 1. **Microbiome modelling for post-mortem interval estimation across species and climates: swine analogues in a British summer and external validation in human donors from the USA.** **Andrea Bonicelli**, Peter A. Cross, Lavinia Iancu, M. Eric Benbow, Noemi Procopio (2026). *Scientific Reports* 16: 24916. [doi:10.1038/s41598-026-65366-y](https://doi.org/10.1038/s41598-026-65366-y)
