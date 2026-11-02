@@ -53,6 +53,6 @@ permalink: /experience/
 - *05/2022*
   **[LC-MS based metabolomics and metabolite identification](https://www.birmingham.ac.uk/facilities/metabolomics-training-centre/courses/2022/lc-ms-based-metabolomics-and-metabolite-identification)** - Birmingham Metabolomics Training Centre
 - *11/2021*
-  **[Hands-on Data Analysis for Metabolic Profiling](https://www.imperial.ac.uk/imperial-international-phenome-training-centre/courses/hands-on-data-analysis-for-metabolic-profiling/)** - National Phenome Centre, Imperial College London
+  **[Hands-on Data Analysis for Metabolic Profiling](https://www.imperial.ac.uk/imperial-international-phenome-training-centre/courses/hands-on-lc-ms-for-metabolic-profiling/)** - National Phenome Centre, Imperial College London
 - *05/2021*
   **[Computation and statistics for mass spectrometry and proteomics](https://computationalproteomics.khoury.northeastern.edu)** - May Institute for Proteomics
