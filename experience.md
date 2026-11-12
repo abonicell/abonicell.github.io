@@ -24,7 +24,7 @@ permalink: /experience/
 - *02/2025 – present*
   **Consultant in Bioinformatics** - School of Law and Policing, University of Lancashire, Preston, UK
 - *07/2024 – present*
-  **Consultant in Bioinformatics** - School of Archaeology and Ancient History, University of Leicester, Leicester, UK
+  **Consultant in Metabolomics** - School of Archaeology and Ancient History, University of Leicester, Leicester, UK
 
 ### Honorary Positions
 
