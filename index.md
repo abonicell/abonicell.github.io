@@ -17,6 +17,5 @@ Postdoctoral Researcher in Bioinformatics · Telethon Institute of Genetics and 
 
 ## Contact
 
-- [a.bonicelli@tigem.it](mailto:a.bonicelli@tigem.it) - TIGEM
+- [a.bonicelli@tigem.it](mailto:a.bonicelli@tigem.it) - Telethon Institute of Genetics and Medicine
 - [Abonicelli1@lancashire.ac.uk](mailto:Abonicelli1@lancashire.ac.uk) - University of Lancashire
-- [andrea.bonicelli@outlook.it](mailto:andrea.bonicelli@outlook.it) - personal
