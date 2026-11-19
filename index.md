@@ -15,10 +15,9 @@ Postdoctoral Researcher in Bioinformatics · Telethon Institute of Genetics and 
 - [<i class="fa-brands fa-github"></i> GitHub](https://github.com/abonicell)
 {: .links}
 
-## Other contibuting GitHub
-contribution to:
+## Other GitHub organizations I contribute to
 - [Carotenuto Lab](https://github.com/CarotenutoLab)
-- [Forensomics Lab](https://github.com/ForensOMICS)
+- [ForensOMICS Lab](https://github.com/ForensOMICS)
 
 ## Contact
 
