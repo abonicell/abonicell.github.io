@@ -15,6 +15,11 @@ Postdoctoral Researcher in Bioinformatics · Telethon Institute of Genetics and 
 - [<i class="fa-brands fa-github"></i> GitHub](https://github.com/abonicell)
 {: .links}
 
+## Other contibuting GitHub
+contribution to:
+- [Carotenuto Lab](https://github.com/CarotenutoLab)
+- [Forensomics Lab](https://github.com/ForensOMICS)
+
 ## Contact
 
 - [a.bonicelli@tigem.it](mailto:a.bonicelli@tigem.it) - Telethon Institute of Genetics and Medicine
